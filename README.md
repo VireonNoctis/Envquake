@@ -1,5 +1,13 @@
 # Envquake
 
+<!-- REPOSITORY-HEALTH:START -->
+[![Code quality](https://github.com/VireonNoctis/Envquake/actions/workflows/repository-health.yml/badge.svg?branch=main)](https://github.com/VireonNoctis/Envquake/actions/workflows/repository-health.yml)
+[![Top language](https://img.shields.io/github/languages/top/VireonNoctis/Envquake?style=flat-square)](https://github.com/VireonNoctis/Envquake)
+[![Languages](https://img.shields.io/github/languages/count/VireonNoctis/Envquake?style=flat-square)](https://github.com/VireonNoctis/Envquake)
+[![Automated tech stack](https://img.shields.io/badge/tech_stack-auto--detected-64748b?style=flat-square)](TECH_STACK.md)
+<!-- REPOSITORY-HEALTH:END -->
+
+
 <p align="center">
   <strong>Shake the assumptions. Find the hidden dependency.</strong><br/>
   A controlled test runner for discovering environment-sensitive behaviour in software.
